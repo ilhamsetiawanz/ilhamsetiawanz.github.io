@@ -51,4 +51,4 @@ Keamanan bukanlah sebuah produk, melainkan sebuah proses. Tidak ada server yang 
 ---
 
 **Artikel Sebelumnya:** [Serverless vs Cold Start: Mencari Titik Tengah untuk Performa Maksimal](/posts/serverless-cold-start-guide/)
-**Artikel Selanjutnya:** [Memilih Kursus Programming yang Tepat: Jangan Terjebak Tutorial Hell!](/posts/how-to-choose-coding-course/)
+**Artikel Selanjutnya:** [Jalur Belajar PHP ke Senior (2025/2026): Apa yang Harus Dikuasai?](/posts/php-senior-roadmap-2026/)
