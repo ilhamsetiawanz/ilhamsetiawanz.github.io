@@ -48,5 +48,5 @@ Next.js bukan sekadar framework, ia adalah cara berpikir baru dalam membangun we
 
 ---
 
-**Artikel Sebelumnya:** [Membangun SaaS Pertama Anda di Laravel: Dari Ide ke Pendapatan Pasif](/posts/mangu-saas-pertama-laravel/)
+**Artikel Sebelumnya:** [Membangun SaaS Pertama Anda di Laravel: Dari Ide ke Pendapatan Pasif](/posts/membangun-saas-pertama-laravel/)
 **Artikel Selanjutnya:** [Memahami React Server Components: Masa Depan Web yang Lebih Ringan dan Cepat](/posts/memahami-react-server-components/)
